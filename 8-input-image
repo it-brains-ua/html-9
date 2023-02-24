@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Заголовок документу</title>
+    <meta charset="utf-8" />
+  </head>
+  <body>
+    <form>
+      <input
+      type="image"
+      src="https://www.w3schools.com/tags/img_submit.gif"
+      alt="Google"
+    />
+      <input
+        type="image"
+        src="https://www.w3schools.com/tags/img_submit.gif"
+        formaction="/test"
+      />
+      <input
+        type="image"
+        src="https://www.w3schools.com/tags/img_submit.gif"
+        formenctype="text/plain"
+      />
+      <input
+        type="image"
+        src="https://www.w3schools.com/tags/img_submit.gif"
+        formmethod="get"
+      />
+      <input
+        type="image"
+        src="https://www.w3schools.com/tags/img_submit.gif"
+        formtarget="_blank"
+      />
+      <input
+        type="image"
+        src="https://www.w3schools.com/tags/img_submit.gif"
+        height="150px"
+      />
+      <input
+        type="image"
+        src="https://www.w3schools.com/tags/img_submit.gif"
+        width="150px"
+      />
+    </form>
+  </body>
+</html>
