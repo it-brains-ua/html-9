@@ -19,7 +19,7 @@
       <input
         type="image"
         src="https://www.w3schools.com/tags/img_submit.gif"
-        formenctype="text/plain"
+        formenctype="multipart/form-data"
       />
       <input
         type="image"
